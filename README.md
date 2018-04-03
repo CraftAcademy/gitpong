@@ -30,6 +30,6 @@ Programmer 1: "Nearly there"
 
 Programmer 2:
 
-Programmer 1: "Done"
+Programmer 1: 
 
 Programmer 2:
