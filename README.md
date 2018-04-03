@@ -18,7 +18,7 @@ Programmer 1: "Life shrinks or expands in proportion to one’s courage."-Anais 
 
 Programmer 2:
 
-Programmer 1:
+Programmer 1: "The trouble is you think you have time." -Buddha
 
 Programmer 2:
 
