@@ -22,14 +22,14 @@ Programmer 1: "The trouble is you think you have time." -Buddha
 
 Programmer 2:
 
-Programmer 1:
+Programmer 1: "So it goes." -Kurt Vonnegut
 
 Programmer 2:
 
-Programmer 1:
+Programmer 1: "Whatever you are, be a good one." -Abraham Lincoln
 
 Programmer 2:
 
-Programmer 1:
+Programmer 1: "Everything happens for a reason." -Unknown
 
 Programmer 2:
