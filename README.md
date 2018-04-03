@@ -18,7 +18,7 @@ Programmer 1: "There is no cow on the ice"
 
 Programmer 2:"nice journey with you"
 
-Programmer 1:
+Programmer 1: "No danger on the roof"
 
 Programmer 2:
 
