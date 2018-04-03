@@ -14,11 +14,11 @@ Programmer 1: "Ill be back!"- Terminator
 
 Programmer 2: "thanks for help"
 
-Programmer 1:
+Programmer 1: "There is no cow on the ice"
 
 Programmer 2:
 
-Programmer 1:
+Programmer 1: "ingen fara på taket"
 
 Programmer 2:
 
