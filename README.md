@@ -26,10 +26,10 @@ Programmer 1:"So far so good"
 
 Programmer 2: "That is nice"
 
-Programmer 1:
+Programmer 1: "Nearly there"
 
 Programmer 2:
 
-Programmer 1:
+Programmer 1: "Done"
 
 Programmer 2:
