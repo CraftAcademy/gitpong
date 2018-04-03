@@ -24,7 +24,7 @@ Programmer 2: "great"
 
 Programmer 1:"So far so good"
 
-Programmer 2:
+Programmer 2: "That is nice"
 
 Programmer 1:
 
