@@ -22,7 +22,7 @@ Programmer 1: "No danger on the roof"
 
 Programmer 2: "great"
 
-Programmer 1:
+Programmer 1:"So far so good"
 
 Programmer 2:
 
