@@ -30,6 +30,6 @@ Programmer 1: "Nearly there"
 
 Programmer 2: "How do you feel at first day?"
 
-Programmer 1:
+Programmer 1: "Finished"
 
 Programmer 2:
