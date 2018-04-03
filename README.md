@@ -20,16 +20,16 @@ Programmer 2: "All you can do is try"
 
 Programmer 1: "The trouble is you think you have time." -Buddha
 
-Programmer 2:
+Programmer 2: "Strive not to be a success, but rather to be of value." –Albert Einstein
 
 Programmer 1: "So it goes." -Kurt Vonnegut
 
-Programmer 2:
+Programmer 2: "You miss 100% of the shots you don’t take." –Wayne Gretzky
 
 Programmer 1: "Whatever you are, be a good one." -Abraham Lincoln
 
-Programmer 2:
+Programmer 2: "Every strike brings me closer to the next home run." –Babe Ruth
 
 Programmer 1: "Everything happens for a reason." -Unknown
 
-Programmer 2:
+Programmer 2: "The mind is everything. What you think you become."  –Buddha
