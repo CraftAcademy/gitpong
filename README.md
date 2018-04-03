@@ -10,7 +10,7 @@ Programmer 1: "Dance like no one is watching" - Someone
 
 Programmer 2: "let´s do it"
 
-Programmer 1:
+Programmer 1: "Ill be back!"- Terminator
 
 Programmer 2:
 
