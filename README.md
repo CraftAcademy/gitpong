@@ -12,11 +12,11 @@ Programmer 2: "Bob Marley, all day!"
 
 Programmer 1: “So many books, so little time.” ― Frank Zappa
 
-Programmer 2:
+Programmer 2: "If there is no time to read, listen"
 
 Programmer 1: "Life shrinks or expands in proportion to one’s courage."-Anais Nin
 
-Programmer 2:
+Programmer 2: "All you can do is try"
 
 Programmer 1: "The trouble is you think you have time." -Buddha
 
