@@ -6,7 +6,7 @@ Programmer 1 : “Don't cry because it's over, smile because it happened.” ―
 Programmer 2 : “So many books, so little time.” ― Frank Zappa
 ```
 
-Programmer 1: "Dance like noone is watching" - Someone
+Programmer 1: "Dance like no one is watching" - Someone
 
 Programmer 2:
 
