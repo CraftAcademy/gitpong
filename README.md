@@ -12,7 +12,7 @@ Programmer 2: "let´s do it"
 
 Programmer 1: "Ill be back!"- Terminator
 
-Programmer 2:
+Programmer 2: "thanks for help"
 
 Programmer 1:
 
