@@ -8,7 +8,7 @@ Programmer 2 : “So many books, so little time.” ― Frank Zappa
 
 Robin: Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
 
-Programmer 2:
+Rhon: trying git pong
 
 Programmer 1:
 
