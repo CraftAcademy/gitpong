@@ -16,7 +16,7 @@ Rhon: ACT action change things
 
 Robin: I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world. 
 
-Programmer 2:
+Rhon: I'm on the hunt for who i've not yet become
 
 Programmer 1:
 
