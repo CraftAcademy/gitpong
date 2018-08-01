@@ -6,25 +6,25 @@ Programmer 1 : “Don't cry because it's over, smile because it happened.” ―
 Programmer 2 : “So many books, so little time.” ― Frank Zappa
 ```
 
-Programmer 1:
+Robin: Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
 
-Programmer 2:
+Rhon: trying git pong
 
-Programmer 1:
+Robin: There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
 
-Programmer 2:
+Rhon: ACT action change things
 
-Programmer 1:
+Robin: I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world. 
 
-Programmer 2:
+Rhon: I'm on the hunt for who i've not yet become
 
-Programmer 1:
+Robin: If you can't explain it to a six year old, you don't understand it yourself.
 
-Programmer 2:
+Rhon: One day or day one. You decide
 
-Programmer 1:
+Robin: If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.
 
-Programmer 2:
+Rhon: no struggle, no pain! last git pong
 
 Programmer 1:
 
