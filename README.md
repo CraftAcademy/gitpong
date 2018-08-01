@@ -20,7 +20,7 @@ Rhon: I'm on the hunt for who i've not yet become
 
 Robin: If you can't explain it to a six year old, you don't understand it yourself.
 
-Programmer 2:
+Rhon: One day or day one. You decide
 
 Programmer 1:
 
