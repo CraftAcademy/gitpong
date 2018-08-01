@@ -18,7 +18,7 @@ Robin: I am enough of an artist to draw freely upon my imagination. Imagination 
 
 Rhon: I'm on the hunt for who i've not yet become
 
-Programmer 1:
+Robin: If you can't explain it to a six year old, you don't understand it yourself.
 
 Programmer 2:
 
