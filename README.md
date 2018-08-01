@@ -10,7 +10,7 @@ Robin: Two things are infinite: the universe and human stupidity; and I'm not su
 
 Rhon: trying git pong
 
-Programmer 1:
+Robin: There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
 
 Programmer 2:
 
