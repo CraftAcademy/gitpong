@@ -14,7 +14,7 @@ Robin: There are only two ways to live your life. One is as though nothing is a 
 
 Rhon: ACT action change things
 
-Programmer 1:
+Robin: I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world. 
 
 Programmer 2:
 
