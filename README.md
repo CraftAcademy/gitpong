@@ -24,7 +24,7 @@ Rhon: One day or day one. You decide
 
 Robin: If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.
 
-Programmer 2:
+Rhon: no struggle, no pain! last git pong
 
 Programmer 1:
 
