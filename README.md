@@ -6,7 +6,7 @@ Programmer 1 : “Don't cry because it's over, smile because it happened.” ―
 Programmer 2 : “So many books, so little time.” ― Frank Zappa
 ```
 
-Programmer 1:
+Robin: Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.
 
 Programmer 2:
 
