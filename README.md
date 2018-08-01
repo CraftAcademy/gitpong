@@ -1,35 +1,14 @@
 ### Git Pong
 #### Each programmer adds a random quote
 
-```Example:
-Programmer 1 : “Don't cry because it's over, smile because it happened.” ― Dr. Seuss
-Programmer 2 : “So many books, so little time.” ― Frank Zappa
-```
+Daniel: Well this is a first.
 
-Programmer 1:
+Rupert: maybe this time
 
-Programmer 2:
+Rupert: Getting there!
 
-Programmer 1:
+Daniel: Here we go...
 
-Programmer 2:
+Rupert: Took a while, but at least it feels like progress now!
 
-Programmer 1:
-
-Programmer 2:
-
-Programmer 1:
-
-Programmer 2:
-
-Programmer 1:
-
-Programmer 2:
-
-Programmer 1:
-
-Programmer 2:
-
-Programmer 1:
-
-Programmer 2:
+Daniel: So it does! 
