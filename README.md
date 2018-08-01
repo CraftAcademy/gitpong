@@ -12,7 +12,7 @@ Rhon: trying git pong
 
 Robin: There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
 
-Programmer 2:
+Rhon: ACT action change things
 
 Programmer 1:
 
