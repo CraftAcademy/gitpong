@@ -22,7 +22,7 @@ Robin: If you can't explain it to a six year old, you don't understand it yourse
 
 Rhon: One day or day one. You decide
 
-Programmer 1:
+Robin: If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.
 
 Programmer 2:
 
