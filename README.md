@@ -6,9 +6,9 @@ Programmer 1 : “Don't cry because it's over, smile because it happened.” ―
 Programmer 2 : “So many books, so little time.” ― Frank Zappa
 ```
 
-Programmer 1:
+Programmer 1: "Insanity: doing the same thing over and over again and expecting different results" - Albert Einstein
 
-Programmer 2:
+Programmer 2: Hello!
 
 Programmer 1:
 
