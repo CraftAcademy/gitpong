@@ -12,7 +12,7 @@ Programmer 2: "I need a beer"
 
 Programmer 1:"I feel ya"
 
-Programmer 2:
+Programmer 2: "Imagine if we had to learn coding in German"
 
 Programmer 1:
 
