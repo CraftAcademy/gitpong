@@ -8,7 +8,7 @@ Programmer 2 : “So many books, so little time.” ― Frank Zappa
 
 Programmer 1: "This is soo cooool!"
 
-Programmer 2:
+Programmer 2: "I need a beer"
 
 Programmer 1:
 
